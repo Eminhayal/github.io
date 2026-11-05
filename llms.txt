@@ -1,0 +1,13 @@
+# Fişlem.
+
+> Fişin fotoğrafını çek, harcaman telefonda okunup kendiliğinden yazılsın. Bütçe, kredi kartı ekstresi ve işletme belgeleri tek uygulamada. Hesap yok, bulut yok.
+
+Fişlem. is an iPhone app (iOS 17+) in Turkish and English. Receipts, invoices and card statements are read on the device. There is no account, server or bank connection.
+
+## Sayfalar
+- [Ana sayfa](index.html): Özellikler ve sık sorulanlar
+- [Gizlilik Politikası](gizlilik.html): Veriler ve izinler
+
+## Pages
+- [Home](en.html): Features and FAQ
+- [Privacy Policy](privacy.html): Data and permissions
